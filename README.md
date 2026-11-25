@@ -47,6 +47,10 @@ O script `analise_jogos.R` realiza as seguintes etapas:
 
 ## Resultados
 
+![Quantidade de jogos por plataforma](Plataforma.png)
+![Distribuição de jogos por plataforma](Pizza.png)
+![Média das notas por plataforma](Media2.png)
+
 Os gráficos gerados mostram:
 
 * A quantidade de jogos em cada plataforma.
